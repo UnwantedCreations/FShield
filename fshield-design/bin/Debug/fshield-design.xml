@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+fshield-design
+</name>
+</assembly>
+<members>
+<member name="T:fshield_design.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:fshield_design.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:fshield_design.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:fshield_design.FShieldMainForm.UserUpdate">
+ <summary>
+ Update User Using SQLite
+ </summary>
+</member>
+<member name="M:fshield_design.FShieldMainForm.ChkBxPasswordShow_CheckedChanged_1(System.Object,Bunifu.UI.WinForms.BunifuCheckBox.CheckedChangedEventArgs)">
+ <summary>
+ Check Box Password Show and Hide
+ </summary>
+</member>
+</members>
+</doc>
